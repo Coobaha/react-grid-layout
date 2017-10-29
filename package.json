@@ -40,8 +40,8 @@
     "react-resizable": "^1.4.0"
   },
   "peerDependencies": {
-    "react": "^0.14.3 || ^15.0.0",
-    "react-dom": "^0.14.3 || ^15.0.0"
+    "react": "^0.14.3 || ^15.0.0 || ^16.0.0",
+    "react-dom": "^0.14.3 || ^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
